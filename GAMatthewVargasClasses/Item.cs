@@ -26,7 +26,7 @@ namespace GAMatthewVargasClasses
             Discount = discount;
 
         } // Item
-        -
+        
         public Item(string name, double price)
         {
             _name = name;
